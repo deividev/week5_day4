@@ -21,4 +21,8 @@ ul {
 .action-btn {
     float: right;
 }
+.check {
+    background: green;
+    border: 1px solid;
+}
 

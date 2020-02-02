@@ -18,10 +18,9 @@ ya existente en el DOM con id "list" y debe llevar la clase "task" .Además a
 este elemento deberas añadirle los siguientes elementos:
 
 - El texto introducido por el usuario en el input.
-- Un botón Editar: Debe crearse en la función addEditBtnElement y tener un listener para el evento click, que dispare
-  la función editElement.
+- Un botón Editar: Debe crearse en la función addEditBtnElement y tener un listener para el evento click, que dispare la función editElement.
 - Un botón Done: Debe crearse en la función addDoneBtnElement y tener un listener para el evento click, que dispare 
-  la función doneElement.
+la función doneElement.
 - Un botón Borrar: Debe crearse en la función addDeleteBtnElement y tener un listener para el evento click, que dispare
   la función deleteElement.  
    
