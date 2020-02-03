@@ -11,6 +11,8 @@ ul {
     margin: 30px auto;
 }
 .task {
+    color: white;
+    font-weight: bold;
     background: red;
     list-style: none;
     margin-top: 1px;
@@ -19,7 +21,7 @@ ul {
     border-radius: 5px;
 }
 .action-btn {
-    float: right;
+    display: flex;
 }
 .check {
     background: green;
